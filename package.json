@@ -19,9 +19,9 @@
   "developer": "ARUNODMANOHARAOFFICIAL bot development team",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/souravkl11/raganork/issues"
+    "url": "https://github.com/arunodmanoharabotquren/raganork-md/issues"
   },
-  "homepage": "https://github.com/souravkl11/raganork#readme",
+  "homepage": "https://github.com/arunodmanoharabotquren/raganork-md#readme",
   "dependencies": {
     "@adiwajshing/baileys": "4.1.0",
     "@adiwajshing/keyed-db":"0.2.4",
